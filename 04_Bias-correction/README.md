@@ -1,4 +1,4 @@
-# Climate Downscaling — Yogyakarta
+# Climate Downscaling — Studi Kasus: Yogyakarta
 
 Statistical downscaling suhu harian menggunakan **Multiple Linear Regression (MLR)** dengan data ERA5, Observasi BMKG, dan GCM (CMIP6).
 
@@ -8,7 +8,7 @@ Statistical downscaling suhu harian menggunakan **Multiple Linear Regression (ML
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/climate_downscaling_yogyakarta.ipynb)
 
-> ⚠️ Ganti `USERNAME` dan `REPO_NAME` sesuai akun GitHub kamu.
+> ⚠️ Ganti `USERNAME` dan `REPO_NAME` sesuai akun GitHub anda.
 
 ---
 
@@ -28,7 +28,7 @@ Notebook ini mendemonstrasikan alur **point-based statistical downscaling** untu
 ## 🗂️ Struktur Repo
 
 ```
-📦 climate-downscaling-yogyakarta
+climate-downscaling-yogyakarta
  ┣ 📓 climate_downscaling_yogyakarta.ipynb   ← Notebook utama
  ┣ 📄 requirements.txt                        ← Dependensi Python
  ┗ 📄 README.md                               ← Dokumentasi ini
@@ -119,9 +119,3 @@ Obs BMKG (stasiun)    ──┘                          ↓
 - Wilby, R.L. & Wigley, T.M.L. (1997). Downscaling general circulation model output: a review of methods and limitations. *Progress in Physical Geography*.
 - Maraun, D. et al. (2010). Precipitation downscaling under climate change. *Reviews of Geophysics*.
 - Hersbach, H. et al. (2020). The ERA5 global reanalysis. *Quarterly Journal of the Royal Meteorological Society*.
-
----
-
-## 👤 Author
-
-Dibuat untuk keperluan Mata Kuliah Perubahan Iklim
