@@ -1,4 +1,4 @@
-# 🌤️ Climate Downscaling — Yogyakarta
+# Climate Downscaling — Yogyakarta
 
 Statistical downscaling suhu harian menggunakan **Multiple Linear Regression (MLR)** dengan data ERA5, Observasi BMKG, dan GCM (CMIP6).
 
@@ -124,4 +124,4 @@ Obs BMKG (stasiun)    ──┘                          ↓
 
 ## 👤 Author
 
-Dibuat untuk keperluan skripsi S1 — Climate Downscaling Yogyakarta  
+Dibuat untuk keperluan Mata Kuliah Perubahan Iklim
