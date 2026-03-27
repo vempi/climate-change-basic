@@ -1,53 +1,10 @@
-# 🌤️ Climate Downscaling — Yogyakarta
-
-Statistical downscaling suhu harian menggunakan **Multiple Linear Regression (MLR)** dengan data ERA5, Observasi BMKG, dan GCM CMIP6.
-
----
-
-## 🚀 Jalankan di Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/climate_downscaling_yogyakarta.ipynb)
-
-> ⚠️ Ganti `USERNAME` dan `REPO_NAME` sesuai akun GitHub kamu.
-
----
-
-## 📋 Deskripsi
-
-Notebook ini mendemonstrasikan alur **point-based statistical downscaling** untuk proyeksi iklim lokal Kota Yogyakarta menggunakan metode Multiple Linear Regression (MLR). Cocok digunakan sebagai referensi skripsi S1 bidang klimatologi, meteorologi, atau geofisika.
-
----
-
 ## 🗂️ Struktur Repo
 
 ```
-📦 climate-downscaling-yogyakarta
- ┣ 📓 climate_downscaling_yogyakarta.ipynb   ← Notebook utama (6 step lengkap)
+📦 Data demo
  ┣ 📊 obs_bmkg.csv                            ← Contoh format obs BMKG
  ┣ 📊 era5_yogyakarta.csv                     ← Contoh format ERA5 (nearest point)
  ┣ 📊 gcm_future.csv                          ← Contoh format GCM future
- ┣ 📄 requirements.txt                        ← Dependensi Python
- ┗ 📄 README.md                               ← Dokumentasi ini
-```
-
----
-
-## ⚙️ Instalasi Lokal
-
-### 1. Clone repo
-```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Jalankan Jupyter
-```bash
-jupyter notebook climate_downscaling_yogyakarta.ipynb
 ```
 
 ---
@@ -224,8 +181,4 @@ pip install -r requirements.txt
 - Hersbach, H. et al. (2020). The ERA5 global reanalysis. *Quarterly Journal of the Royal Meteorological Society*.
 - Eyring, V. et al. (2016). Overview of CMIP6. *Geoscientific Model Development*.
 
----
-
-## 👤 Author
-
-Dibuat untuk keperluan skripsi S1 — Climate Downscaling Yogyakarta
+--
